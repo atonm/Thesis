@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using System.Diagnostics;
 using System.IO;
 using System.Text;
-public class messagecharacter : MonoBehaviour
+public class MessageCharacter : MonoBehaviour
 {
     public GameObject dialogue;
     public Text Text;

@@ -4,6 +4,7 @@
 ColabScriptsに実験準備で使ったプログラムが、town_2DにUnityでデモを行う際に使用したプログラムが入っています。
 ## プログラムの説明
 ### ColabScripts
+実験準備関係のプログラム
 #### RURファインチューニング.ipynb
 『R .U .R.』(カレル・チャペック, 1920)を用いてファインチューニングを行った際のプログラム    
 研究途中で方針を変えたので最終的にはファインチューニングしたモデルは使いませんでした
@@ -16,3 +17,6 @@ ColabScriptsに実験準備で使ったプログラムが、town_2DにUnityで�
 #### U検定.ipynb
 アンケート調査の結果をU検定にかける際に作成したプログラム
 ### town_2D
+Unityで使用したプログラム  
+以下のような構成になっています
+<img width="1568" alt="無題" src="https://github.com/atonm/bachelor/assets/92423104/ba4e6fee-b31d-4c76-b1e2-04591b6adffc">

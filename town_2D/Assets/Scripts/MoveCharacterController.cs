@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class MoveCharactorController : MonoBehaviour
+public class MoveCharacterController : MonoBehaviour
 {
     //private float speed = 0.08f;
     // あらかじめ Animator コンポーネントを持っておくようにする

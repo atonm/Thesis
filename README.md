@@ -20,3 +20,8 @@ ColabScriptsに実験準備で使ったプログラムが、town_2DにUnityで�
 Unityで使用したプログラム  
 以下のような構成になっています
 <img width="1568" alt="無題" src="https://github.com/atonm/bachelor/assets/92423104/ba4e6fee-b31d-4c76-b1e2-04591b6adffc">
+
+
+#### デモ画面のスクリーンショット
+
+<img width="1100" alt="image" src="https://github.com/atonm/Thesis/assets/92423104/b5209128-3e55-44d4-956c-0a0d2830cd5a">
